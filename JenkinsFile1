@@ -2,6 +2,7 @@ new commit  pipeline{
  new chnage for commit   tools{
         jdk 'myjava'
         maven 'mymaven131'.
+created 
 
     }
     //more commits on the file
